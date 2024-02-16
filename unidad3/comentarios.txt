@@ -1,0 +1,21 @@
+<div class="comentario">
+        <p>
+            <strong>Nombre de usuario:</strong> 123
+            <strong>Mail del usuario:</strong> 123
+            <strong>Comentario enviado:</strong> 123
+            <strong>Fecha y hora:</strong> 2024-01-04 20:24</p>
+    </div>
+<div class="comentario">
+        <p>
+            <strong>Nombre de usuario:</strong> Pablo Paez
+            <strong>Mail del usuario:</strong> pablopaez2307@gmail.com
+            <strong>Comentario enviado:</strong> ola
+            <strong>Fecha y hora:</strong> 2024-01-04 20:24</p>
+    </div>
+<div class="comentario">
+        <p>
+            <strong>Nombre de usuario:</strong> asd
+            <strong>Mail del usuario:</strong> asd
+            <strong>Comentario enviado:</strong> asd
+            <strong>Fecha y hora:</strong> 2024-01-04 20:24</p>
+    </div>
